@@ -1,0 +1,20 @@
+header {
+	padding: 8px;
+}
+p {
+	background-color: yellow;
+
+}
+h1 {
+	text-align: center;
+	font-size: 4em;
+}
+article p {
+	background-image: url(http://www.placecage.com/g/100/100);
+	padding: 20px;
+	color: white;
+	font-size: 30px;
+}
+body {
+	color: #FFE5AA
+}
