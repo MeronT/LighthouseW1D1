@@ -1,7 +1,7 @@
 header {
 	padding: 8px;
 }
-p {
+ article p {
 	background-color: yellow;
 
 }
@@ -15,13 +15,15 @@ article p {
 	color: black;
 	font-size: 30px;
 }
-body {
-	color: #FFE5AA
-}
- aside section{
-	background-image: url(http://www.placecage.com/g/100/100)
-}
-h4 {
+ h4 {
 	color: white;
 	font-size: 15px;
+}
+aside section p {
+	font-family: arial; 
+}
+p.green {
+	color: #11F03D;
+	font-style: strong;
+	font-size: 3em
 }
